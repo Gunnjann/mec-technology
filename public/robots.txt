@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mectechnology.co.in/sitemap.xml
